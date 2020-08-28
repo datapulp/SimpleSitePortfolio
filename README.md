@@ -13,7 +13,13 @@
 
 ### Overview:
 A simple Portfolio/Profile website modified to suit my needs of further simplicity...
-Some might say, 'too simple'.
-I might make a branch that is just the bare site in a 'default state', and then consider branching and uploading my own variant for _everyone else to see_ o.O
+Some might say, 'too simple'. <br/>
 
 
+In future: Create 3 branches
+1. saviokay clone
+1. template branch (barebones starting point)
+1. my dev branch _for everyone else to see_ o.O
+
+<br/>
+not sure if I should fuzz his name from my repo, we are in no way affiliated.
