@@ -20,10 +20,13 @@ Some might say, 'too simple'. <br/>
 
 ### In future:
 
-Create 3 branches
-1. saviokay clone
-1. template branch (barebones starting point)
-1. my dev branch _for everyone else to see_ o.O
+Achieve branch releases:
+1. dev branch (Master) to first release stage
+1. server prep
+1. server config
+1. servers. Vagrant? (etc.)
+
+This will probably take longer than it seems.
 
 ---
 
