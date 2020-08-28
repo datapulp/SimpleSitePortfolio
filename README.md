@@ -1,7 +1,19 @@
 
-# saviokay.github.io 
+
+---
+
+
+##### Original design by saviokay.github.io (forked)
+
+<br/><br/>
+
+## datapulp Portfolio Site Template (WIP)
+
+`A simple portfolio site. No frills, no js.`
+
 ### Overview:
-> Repository For Simple Portfolio Website - Savio Kay's Profile.</br>
-Hosted with ❤️ on GitHub Pages .</br>
-Currently Still In Development..
+A simple Portfolio/Profile website modified to suit my needs of further simplicity...
+Some might say, 'too simple'.
+I might make a branch that is just the bare site in a 'default state', and then consider branching and uploading my own variant for _everyone else to see_ o.O
+
 
